@@ -1,0 +1,33 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  /* border: 1px solid orange; */
+  padding: 0 2rem;
+}
+
+.grclose {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .nav {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .grclose {
+    display: block;
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+  }
+
+  .close {
+    display: none;
+  }
+
+  .open {
+    display: initial;
+  }
+}

@@ -1,0 +1,85 @@
+.herohome {
+  /* border: 1px solid black; */
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 0 2rem;
+}
+
+.herohome > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.herohome > div p {
+  margin: auto;
+  margin-bottom: 20px;
+  padding-top: 0;
+  font-size: 1.2rem;
+  text-align: left;
+}
+
+.herohome > div h1 {
+  font-size: 4rem;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.herohome > div h1 span {
+  background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btns {
+  display: flex;
+  font-size: large;
+  font-weight: bold;
+}
+
+.btns div:first-of-type {
+    box-shadow: 8px 8px 1px 1px rgba(255, 0, 0, 0.5);
+    border: 1px solid black;
+    background-color: #000;
+    color: #FFF;
+}
+
+.btns div:first-of-type:active {
+    transform: translate3d(2px, 2px, 3px);
+}
+
+.btns div:last-of-type {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btns div {
+  margin: 8px;
+  padding: 1rem;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.herohome > div + div {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.profile_picture img {
+  border-top-left-radius: 4rem;
+  border-bottom-right-radius: 14rem;
+}
+
+@media screen and (max-width: 640px) {
+    .herohome {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .herohome div:first-of-type h1 {
+        font-size: 3rem;
+    }
+}
