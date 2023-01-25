@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.js": "/sanjayrathva091.github.io/static/js/main.209fbdfa.js",
-    "static/js/787.f2ad100b.chunk.js": "/sanjayrathva091.github.io/static/js/787.f2ad100b.chunk.js",
-    "static/media/Project01.png": "/sanjayrathva091.github.io/static/media/Project01.ff3b86106816f1e1e5cb.png",
-    "static/media/mongodb_logo.png": "/sanjayrathva091.github.io/static/media/mongodb_logo.6170bacefd8a1f69ca74.png",
-    "static/media/cra_logo.png": "/sanjayrathva091.github.io/static/media/cra_logo.111c59eee5053e539825.png",
-    "static/media/postman_logo.png": "/sanjayrathva091.github.io/static/media/postman_logo.7fedeaff79947348538e.png",
-    "static/media/portfolio_image.png": "/sanjayrathva091.github.io/static/media/portfolio_image.16939f7d624c034a423e.png",
-    "static/media/typescript_logo.png": "/sanjayrathva091.github.io/static/media/typescript_logo.d362ac9034fd59687ef3.png",
-    "static/media/tailwind_logo.png": "/sanjayrathva091.github.io/static/media/tailwind_logo.3549d9e451d7abb96934.png",
-    "static/media/html5_logo.png": "/sanjayrathva091.github.io/static/media/html5_logo.1d7b133e22ffe4829da6.png",
-    "static/media/redux_logo.png": "/sanjayrathva091.github.io/static/media/redux_logo.5de70b7bc0d2556a0958.png",
-    "static/media/css3_logo.png": "/sanjayrathva091.github.io/static/media/css3_logo.9f33c557b92e4e2e1cc8.png",
-    "static/media/nodejs_logo.png": "/sanjayrathva091.github.io/static/media/nodejs_logo.fb1a26c217122a83cc52.png",
-    "static/media/reactjs_logo.png": "/sanjayrathva091.github.io/static/media/reactjs_logo.20adfb35ae6a6e5817bf.png",
-    "static/media/javascript_logo.png": "/sanjayrathva091.github.io/static/media/javascript_logo.1707d09a3f6f31bb97e8.png",
-    "static/media/express_logo.png": "/sanjayrathva091.github.io/static/media/express_logo.39a0f4c3d981885c64f8.png",
-    "index.html": "/sanjayrathva091.github.io/index.html",
-    "main.209fbdfa.js.map": "/sanjayrathva091.github.io/static/js/main.209fbdfa.js.map",
-    "787.f2ad100b.chunk.js.map": "/sanjayrathva091.github.io/static/js/787.f2ad100b.chunk.js.map"
+    "main.js": "/static/js/main.8eb3796d.js",
+    "static/js/787.f2ad100b.chunk.js": "/static/js/787.f2ad100b.chunk.js",
+    "static/media/Project01.png": "/static/media/Project01.ff3b86106816f1e1e5cb.png",
+    "static/media/mongodb_logo.png": "/static/media/mongodb_logo.6170bacefd8a1f69ca74.png",
+    "static/media/cra_logo.png": "/static/media/cra_logo.111c59eee5053e539825.png",
+    "static/media/postman_logo.png": "/static/media/postman_logo.7fedeaff79947348538e.png",
+    "static/media/portfolio_image.png": "/static/media/portfolio_image.16939f7d624c034a423e.png",
+    "static/media/typescript_logo.png": "/static/media/typescript_logo.d362ac9034fd59687ef3.png",
+    "static/media/tailwind_logo.png": "/static/media/tailwind_logo.3549d9e451d7abb96934.png",
+    "static/media/html5_logo.png": "/static/media/html5_logo.1d7b133e22ffe4829da6.png",
+    "static/media/redux_logo.png": "/static/media/redux_logo.5de70b7bc0d2556a0958.png",
+    "static/media/css3_logo.png": "/static/media/css3_logo.9f33c557b92e4e2e1cc8.png",
+    "static/media/nodejs_logo.png": "/static/media/nodejs_logo.fb1a26c217122a83cc52.png",
+    "static/media/reactjs_logo.png": "/static/media/reactjs_logo.20adfb35ae6a6e5817bf.png",
+    "static/media/javascript_logo.png": "/static/media/javascript_logo.1707d09a3f6f31bb97e8.png",
+    "static/media/express_logo.png": "/static/media/express_logo.39a0f4c3d981885c64f8.png",
+    "index.html": "/index.html",
+    "main.8eb3796d.js.map": "/static/js/main.8eb3796d.js.map",
+    "787.f2ad100b.chunk.js.map": "/static/js/787.f2ad100b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.209fbdfa.js"
+    "static/js/main.8eb3796d.js"
   ]
 }
