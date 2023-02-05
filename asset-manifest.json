@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.044752aa.js",
+    "main.js": "/static/js/main.86e687cd.js",
     "static/js/787.f2ad100b.chunk.js": "/static/js/787.f2ad100b.chunk.js",
     "static/media/Project01.png": "/static/media/Project01.ff3b86106816f1e1e5cb.png",
     "static/media/mongodb_logo.png": "/static/media/mongodb_logo.6170bacefd8a1f69ca74.png",
@@ -8,6 +8,7 @@
     "static/media/postman_logo.png": "/static/media/postman_logo.7fedeaff79947348538e.png",
     "static/media/portfolio_image.png": "/static/media/portfolio_image.16939f7d624c034a423e.png",
     "static/media/typescript_logo.png": "/static/media/typescript_logo.d362ac9034fd59687ef3.png",
+    "static/media/fw20_0299_Sanjaykumar_Rathva_Resume.pdf": "/static/media/fw20_0299_Sanjaykumar_Rathva_Resume.75658cbf8252fbc6c90e.pdf",
     "static/media/tailwind_logo.png": "/static/media/tailwind_logo.3549d9e451d7abb96934.png",
     "static/media/html5_logo.png": "/static/media/html5_logo.1d7b133e22ffe4829da6.png",
     "static/media/redux_logo.png": "/static/media/redux_logo.5de70b7bc0d2556a0958.png",
@@ -17,10 +18,10 @@
     "static/media/javascript_logo.png": "/static/media/javascript_logo.1707d09a3f6f31bb97e8.png",
     "static/media/express_logo.png": "/static/media/express_logo.39a0f4c3d981885c64f8.png",
     "index.html": "/index.html",
-    "main.044752aa.js.map": "/static/js/main.044752aa.js.map",
+    "main.86e687cd.js.map": "/static/js/main.86e687cd.js.map",
     "787.f2ad100b.chunk.js.map": "/static/js/787.f2ad100b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.044752aa.js"
+    "static/js/main.86e687cd.js"
   ]
 }
